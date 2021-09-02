@@ -13,6 +13,8 @@ Após o balanceamento e escolha do modelo preditivo mais adequado a situação, 
 Foi possível verificar que, dentre os clientes em churn, aqueles que mais se destacam: possuem entre 40 a 50 anos; tendem a surgir na transição do primeiro para o segundo ano de conta ativa; na sua maioria, possuem apenas um produto bancário; dentre a parcela de clientes que possuem o maior número de produtos bancários, todos estão em churn, o que sugere que não está sendo vantajoso obter tantos produtos.
 Caso esses clientes saiam, a quantiade de lucro que o banco deixará de obter é de 38.786.401,74 unidades monetárias
 
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
 # Preview
 This analysis aims to create predictive models for a bank, which, in turn, seeks to predict when a customer is about to cancel their bank account (churn).
 In addition to the creation of predictive models, it was also estimated the profit that the bank will not have if these customers leave. It was also possible to obtain knowledge if there is any predominant relationship between this group of customers, in order to devise better financial strategies to more efficiently secure those customers who wish to cancel their account.
