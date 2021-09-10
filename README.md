@@ -2,6 +2,7 @@
 
 # Dados do desafio
 O dataset utilizado para o desafio pode ser encontrado no seguinte link: https://www.kaggle.com/mervetorkan/churndataset
+
 No que se refere aos valores utilizados, foi através do desafio proposto pelo blog: https://sejaumdatascientist.com/predicao-de-churn/
 
 # Prévia
