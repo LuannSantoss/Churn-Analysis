@@ -1,5 +1,9 @@
 [English Bellow]
 
+# Dados do desafio
+O dataset utilizado para o desafio pode ser encontrado no seguinte link: https://www.kaggle.com/mervetorkan/churndataset
+No que se refere aos valores utilizados, foi através do desafio proposto pelo blog: https://sejaumdatascientist.com/predicao-de-churn/
+
 # Prévia
 Esta análise tem por objetivo, criar modelos preditivos destinados a um banco, que por sua vez, procura prever quando um cliente está na prestes a cancelar sua conta bancária (churn). 
 Para além da criação dos modelos preditivos, também estimou-se o lucro que o banco deixará de ter, caso esses clientes saiam. Também foi possível obter conhecimento se há alguma relação predominante entre esse grupo de clientes, de forma a traçar melhores estratégias financeiras para fixar de forma mais eficiente esses clientes que desejam cancelar sua conta.
@@ -14,6 +18,10 @@ Foi possível verificar que, dentre os clientes em churn, aqueles que mais se de
 Caso esses clientes saiam, a quantiade de lucro que o banco deixará de obter é de 38.786.401,74 unidades monetárias
 
 -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+# Challenge data
+The dataset used for the challenge can be found at the following link: https://www.kaggle.com/mervetorkan/churndataset
+With regard to the values used, it was through the challenge proposed by the blog: https://sejaumdatascientist.com/predicao-de-churn/
 
 # Preview
 This analysis aims to create predictive models for a bank, which, in turn, seeks to predict when a customer is about to cancel their bank account (churn).
